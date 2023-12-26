@@ -12,7 +12,7 @@
             <button type="button" onclick="footerinfo();" class="footer_toggle">부산오토필드</button>
         </div>
         <div class="info">
-                부산광역시 기장군 장안읍 반룡산단3로 95, 813호<br>
+                부산광역시 기장군 장안읍 반룡산단3로 95, 813호werwrwrwr<br>
                 대표이사 : 한상원        사업자번호 : 313-81-35291<br>
 				온라인대행 : 주식회사 에이블컴애드<br>
 				서울시 강남구 논현로 149길 54, 301호(논현동)<br>
