@@ -1,1 +1,2 @@
 # skr-test
+* global email
