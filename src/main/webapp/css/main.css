@@ -1,0 +1,72 @@
+.main .titlebar-left {right:0;}
+.main .titlebar-right {right:2.7rem;}
+.main .titlebar-center.logo a {background:url(/images/logo_w.png) no-repeat 10px center !important;background-size:auto 20px !important;}
+.main .titlebar {background:#2a3055;}
+.main .menu-icon.hamburger {background-image:url(/images/icon/hamburger2_w.png) !important;}
+.main .titlebar-right .alram {background-image:url(/images/icon_alarm_w.png) !important}
+.titlebar-right .alram span {background:#ff7200;}
+
+.main .swiper-container .photo_num {top:auto;bottom:10px;}
+
+.main-search .column {position:fixed;left:0;top:3.125rem;padding:.2rem;background:#2a3055;}
+.main-search .input {height:2.7rem;margin:0;border:1px solid #17044a;padding:0;background:url(/images/icon/btn_search_red.png) no-repeat .8rem center #fff;background-size:auto 23px;line-height:2.5rem;font-size:.9rem;text-indent:2.6rem;letter-spacing:-1px;color:#bbb;}
+.main-search .input::placeholder {color:#aaa;}
+.main .tap_normal_wrap {border:0;}
+
+.main .visual {position:relative;font-size:0;overflow:hidden;background:url(/images/main/visual_img.png) no-repeat left bottom;background-size:80% auto;}
+.main .visual:after {content:'';position:absolute;right:0;top:0;bottom:0;width:50%;background:#f3f6f7;z-index:-1;}
+.main .visual .title {padding:1.5rem 0 1rem .2rem;font-size:1.4rem;color:#555;letter-spacing:-2px;}
+.main .visual .title p {font-size:1.5rem;}
+.main .visual .title p strong {padding-right:5px;font-size:2.5rem;color:#2a3055;font-family:Century Gothic;line-height:1.2;}
+.main .visual .title .subtxt {font-size:.85rem;letter-spacing:0;color:#999;letter-spacing:-1px;}
+.main .visual h4 {clear:both;padding:5.5rem 0 0 50%;font-size:.8rem;color:#777;letter-spacing:-1px;}
+.main .visual .bx-wrapper .bx-viewport {background:transparent;}
+.main .visual img {width:100%;}
+.main .visual .keyword {margin:0 -1rem 0 0;padding:0 1rem 2.2rem 45%;text-align:center;white-space:nowrap;overflow:hidden;overflow-x:scroll;-webkit-overflow-scrolling:touch;}
+.main .visual .keyword a {display:inline-block;border:1.5px solid rgba(19,26,66,.9);background:#fff;border-radius:100px;padding:0 1.3rem;margin-right:5px;margin-bottom:5px;color:rgba(19,26,66,.9);font-size:.85rem;word-break;keep-all;line-height:2.2rem;letter-spacing:-1px;}
+.main .visual .keyword a.red {border-color:#0ED6A6;color:#11b991;font-weight:bold;}
+.main .visual .premium {padding-left:40%;margin:-1.5rem -1rem 0 0;}
+.main .visual .usedcar-list>li {width:205px !important;}
+.main .visual .usedcar-list>li:after {display:none;}
+.main .visual .usedcar-list .thumb {height:115px;}
+.main .visual .usedcar-list .car-icon {top:-110px;}
+.main .visual .usedcar-list .car-icon .label {width:40px;height:55px;background-size:100% auto !important;}
+.main .visual .usedcar-list .pdt-info {padding:0 0 0 10px;}
+.main .visual .usedcar-list .pdt-info .pdt-name {width:90%;padding:8px 12px;margin-top:-10px;background:rgba(19,26,66,.9);color:#eee;font-size:1rem;line-height:1.3;font-weight:normal;}
+.main .visual .usedcar-list .thumb {border-radius:10px;}
+.main .visual .usedcar-list .pdt-info .pdt-price {position:relative;top:auto;right:auto;}
+.main .visual .usedcar-list .pdt-info .pdt-price .sale-price {padding:0 .8rem .8rem;background:rgba(19,26,66,.9);color:#fff;font-size:.8rem;line-height:1;}
+.main .visual .usedcar-list .pdt-info .pdt-price .sale-price em {font-size:1.4rem;}
+.main .visual .usedcar-list .usedcar-opt, .main .visual .usedcar-list .usedcar-icon {display:none;}
+.main .visual .bx-wrapper .bx-pager.bx-default-pager a {width:4px !important;height:4px !important;background:rgba(0,0,0,.2);margin:0 4px;}
+.main .visual .bx-wrapper .bx-pager.bx-default-pager a.active {width:8px !important;height:8px !important;background:#17044a;transform:translateY(-2px);}
+.main .visual .bx-wrapper .bx-pager {bottom:-25px;text-align:left;}
+@media all and (max-width:20rem){
+	.main .visual .usedcar-list>li {width:175px !important;}
+}
+
+.main .carlist .column {margin-right:-1rem;padding-right:0;}
+.main .carlist.bg {background:#f5f5f5;}
+
+.scroll-wrap {overflow:hidden;overflow-x:scroll;-webkit-overflow-scrolling:touch;padding-bottom:1.3rem;}
+.scroll-wrap .usedcar-list.col2 {display:inline-flex;padding:0;}
+.scroll-wrap .usedcar-list.col2 li {display:inline-flex;width:165px;margin-right:5px;margin-bottom:0;}
+.scroll-wrap .usedcar-list.col2 li:last-child {margin-right:0;}
+.scroll-wrap .usedcar-list.col2 li:nth-child(2n) {margin-right:5px !important;}
+.scroll-wrap .usedcar-list.col2 > li a {overflow:hidden;width:165px;}
+.scroll-wrap .usedcar-list.col2 .pdt-info {min-height:auto;padding:.7rem .5rem 1.2rem;background:transparent;line-height:1;}
+.scroll-wrap .usedcar-list.col2 .pdt-info .pdt-name {height:auto;margin-bottom:0;font-size:.9rem;white-space:nowrap;text-overflow:ellipsis;}
+.scroll-wrap .usedcar-list.col2 .usedcar-opt {min-height:auto;padding-top:0;font-size:.75rem;white-space:nowrap;text-overflow:ellipsis;}
+
+.main_magazine {background:#e6ece3;}
+.main_magazine .news-image-list {padding-bottom:2.5rem;}
+.main_magazine .news-image-list .grid-item .text-area {padding-bottom:0.5rem;}
+.main_magazine .news-image-list .grid-item .title {height:auto;padding:5px;font-size:.9rem;white-space:nowrap;text-overflow:ellipsis;}
+.main_magazine .news-image-list .grid-item .img-area {min-height:100px;}
+
+.main_service ul {background:#f5f5f5;padding:2.3rem 1rem;margin:0 -1rem !important;font-size:0;}
+.main_service li {display:inline-block;width:33.33%;padding:2.5rem 0 1.2rem;color:#555;font-weight:bold;font-size:.95rem;letter-spacing:-1px;text-align:center;}
+.main_service li:nth-child(1) {background:url(/images/main/img_icon1.png) no-repeat center 0;background-size:auto 40px;}
+.main_service li:nth-child(2) {background:url(/images/main/img_icon2.png) no-repeat center 0;background-size:auto 40px;}
+.main_service li:nth-child(3) {background:url(/images/main/img_icon3.png) no-repeat center 0;background-size:auto 40px;}
+.main_service li.type2 {display:inline-block;width:49%;margin:0 .5%;padding:0;border:1px solid #d5d5d5;background:url(/images/gnb_arrow_go.png) no-repeat 93% center #fff;background-size:auto 22px;border-radius:100px;line-height:51px;font-size:.95rem;text-indent:1.5rem;text-align:left;}

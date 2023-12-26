@@ -1,0 +1,5 @@
+.chart h3 {margin-bottom:30px!important}
+.chart-bar {margin-top:70px}
+
+/* 현재매물 가격대 포인트 */
+.curr-point {display:none;position:absolute;background:url(../images/icon/slider_button.png) center center no-repeat;background-size:contain}

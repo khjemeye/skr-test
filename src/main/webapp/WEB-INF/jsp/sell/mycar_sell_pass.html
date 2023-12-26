@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<title></title>
+<link rel="stylesheet" href="/css/vendor/foundation.min.css">
+<link rel="stylesheet" href="/css/vendor/jquery-ui.min.css">
+<link rel="stylesheet" href="/css/vendor/jquery.bxslider.css">
+<link rel="stylesheet" href="/css/common.css">
+<link rel="stylesheet" href="/css/sub.css">
+<!-- custom css -->
+<script src="/js/vendor/jquery.js"></script>
+<script src="/js/vendor/jquery-ui.min.js"></script>
+<script src="/js/vendor/jquery.ui.touch-punch.min.js"></script>
+<script src="/js/vendor/foundation.min.js"></script>
+<script src="/js/common.js"></script>
+</head>
+
+<body>
+<!-- header -->
+<div id="header" class="row header fixed bgcolor">
+	
+	<!-- titlebar -->
+	<div class="column titlebar no-padding">
+		<div class="titlebar-left">
+		  <button class="menu-icon" type="button" onClick="winback();"></button>
+		</div>
+		<div id="logo" class="titlebar-center">
+			<a href="#" title="비밀번호 확인">비밀번호 확인</a>
+		</div>
+	</div>
+	<!-- //titlebar -->
+	
+</div>
+<!-- //header -->
+
+<!-- container -->
+<div class="container">
+		
+	<div class="row">
+		<div class="column member_box join_box">
+		    <div class="tit">
+                <p>
+                    본인 확인
+                </p>
+                <span>자세한 상담신청내용을 확인하기 위해서 <br>
+본인확인이 필요합니다.<br>
+				신청시 입력하신 비밀번호를 입력해주세요.</span>
+            </div>
+            
+            <div class="inputFormWrap">
+                <ul>					
+                    <li>
+						<div class="title"><u class="basic">*</u> 비밀번호</div>
+                        <input type="password" placeholder="비밀번호 입력">
+                        <div class="txt_info error">일치하는 비밀번호가 없습니다.</div>
+                    </li>                   
+                </ul>
+			</div>    
+			<br>          
+			<div class="button-group col2">
+				<button type="button" class="button color-black">취소</button>
+				<button type="button" class="button" onClick="location.href='/car/mycar_sell_view.html'">확인</button>
+			</div>
+              
+		</div>
+	</div>
+	
+	<div class="footer_wrap">
+		<div class="btn_footer">
+			<button type="button" onClick="location.href='/?pcViewFlag=1'">PC버전</button>
+			<button type="button" onClick="#">안드로이드 APP</button>
+			<button type="button" onClick="#">IOS APP</button>
+		</div>
+		<div class="footer_text">
+			<div class="btn">
+				<button type="button" onClick="footerinfo();" class="footer_toggle">부산오토필드</button>
+			</div>
+			<div class="info">
+				부산광역시 기장군 장안읍 반룡리 897-1<br>
+				대표이사 : 조정희        사업자번호 : 452-21-32512<br>
+				대표전화 : 031-123-1234
+			</div>
+			Copyright(c) 부산오토필드
+		</div>
+	</div>
+</div>
+<!--// container -->
+</body>
+</html>
