@@ -8,7 +8,7 @@
 
 <meta name="title" content="부산오토필드">
 <meta name="keywords" content="부산오토필드, 부산중고차, 중고자동차매매시장, KB차차차,부산중고차시장, 영남최대 중고차매매단지, 반룡, 백화점식, 중고차시장, 실내중고차, 인증중고차, 보증중고차, 허위매물불가, 보증수리, 인증딜러, 중고차딜러,KT,체카">
-<meta name="description" content="영남권 최대규모 원스톱 자동차매매단지! 매머드급 스케일, 영남권 핵심 요충지">
+<meta name="description" content="영남권 최대규모 원스톱 자동차매매단지! 매머드급 스케일, 영남권 핵심 요충지sdfsfdsf">
 <meta property="og:title" content="부산오토필드">
 <meta property="og:description" content="영남권 최대규모 원스톱 자동차매매단지! 매머드급 스케일, 영남권 핵심 요충지dsfdsftest23211">
 <meta property="og:image" content="http://m.busanautofield.com/images/sns.jpg">
