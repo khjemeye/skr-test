@@ -11,7 +11,7 @@
 <meta name="description" content="영남권 최대규모 원스톱 자동차매매단지! 매머드급 스케일, 영남권 핵심 요충지sdfsfdsfzxczc">
 <meta property="og:title" content="부산오토필드">
 <meta property="og:description" content="영남권 최대규모 원스톱 자동차매매단지! 매머드급 스케일, 영남권 핵심 요충지dsfdsftest23211">
-<meta property="og:image" content="http://m.busanautofield.com/images/sns.jpg">
+<meta property="og:image" content="http://m.busanautofield.com/images/sns.jpggggg">
 <meta property="og:url" content="http://m.busanautofield.commmm">
 <meta property="og:type" content="website">
 <meta name="Robots" content="INDEX, FOLLOW">
