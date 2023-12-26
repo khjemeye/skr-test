@@ -3,7 +3,7 @@
 <%@ taglib uri="http://www.springframework.org/tags" prefix="spring"%>
 <div class="footer_wrap">
     <div class="btn_footer">
-        <button type="button" onclick="location.href='<spring:eval expression="@globalsProperties['Globals.httpserver.weburl']"/>/?pcViewFlag=1'">PC버전</button>
+        <button type="button" onclick="location.href='/>/?pcViewFlag=1'">PC버전</button>
         <button type="button" onclick="location.href='https://play.google.com/store/apps/details?id=com.busanautofield.app'">안드로이드 APPddd</button>
         <button type="button" onclick="location.href='https://apps.apple.com/app/id1532197564';">IOS APP</button>
     </div>
