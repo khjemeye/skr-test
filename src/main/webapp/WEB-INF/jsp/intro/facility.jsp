@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+﻿<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ include file="/include/taglib_prefix.jsp"%>
 <%@ include file="/include/top.jsp"%>
 
@@ -22,7 +22,7 @@
             <button class="menu-icon" type="button" onClick="winback();"></button>
         </div>
         <div id="logo" class="titlebar-center submenu">
-            <a href="javascript:void(0);" title="시설안내">시설안내</a>
+            <a href="javascript:void(0);" title="시설안내">시설안내dfsf</a>
         </div>
         <div class="titlebar-right">
             <button class="menu-icon hamburger" type="button" onClick="openNav();"></button>
